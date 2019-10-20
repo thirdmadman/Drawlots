@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Draw lots!</string>
+    <string name="main_text_title">Here you input variants:</string>
+    <string name="variants_text">drink vodka \nknock over a shot \ndrink beer</string>
+    <string name="start_game_button">Start GAME</string>
+    <string name="result_text_title">Your result is:</string>
+    <string name="show_result_button">Draw!</string>
+    <string name="addTitleText">add title</string>
+    <string name="removeTitle">remove title</string>
+</resources>

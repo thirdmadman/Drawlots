@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Тяни жребий!</string>
+    <string name="main_text_title">Тут вводи свои варианты:</string>
+    <string name="variants_text">хряпнуть водки \nвыпить стопку \nжахнуть пива</string>
+    <string name="start_game_button">Начать</string>
+    <string name="result_text_title">Твой жребий это:</string>
+    <string name="show_result_button">Тянуть!</string>
+    <string name="addTitleText">добавить загол.</string>
+    <string name="removeTitle">убрать загол.</string>
+</resources>
